@@ -452,7 +452,7 @@ Example:
 {
     "autoload": {
         "psr-4": {
-            "Monolog\\": "src/",
+            "Monolog\\": "src/Monolog",
             "Vendor\\Namespace\\": ""
         }
     }
